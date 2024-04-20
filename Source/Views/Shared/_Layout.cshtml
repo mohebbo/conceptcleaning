@@ -1,0 +1,175 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebSite</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/carousel.css" asp-append-version="true" />
+
+    <style type="text/css">
+        .announcement {
+            display: inline-block !important;
+            height: 50px;
+            text-align: center;
+            width: 100%;
+            background: #4578b4;
+            color: #fff;
+            font-family: Open Sans, Arial, Helvetica, sans-serif;
+            margin: 0px;
+            padding: 8px 0 0;
+            vertical-align: middle;
+            font-size: 1em;
+        }
+
+        .tw-top-bar {
+            position: relative;
+            background: #f2f2f2;
+            border-bottom: 1px solid #e8e8e8;
+            line-height: 36px;
+            border-bottom: 1px solid #EDEDED;
+        }
+
+
+        .tw-top-widget {
+            position: relative;
+            font-size: 11px;
+            color: #a4a4a4;
+            text-shadow: 0 1px #fff;
+            padding: 0 15px;
+            border-left: 1px solid #e8e8e8;
+        }
+
+        .tw-top-widget {
+            position: relative;
+            font-size: 11px;
+            color: #a4a4a4;
+            text-shadow: 0 1px #fff;
+            padding: 0 15px;
+            border-left: 1px solid #e8e8e8;
+        }
+
+            .tw-top-widget.right:first-child {
+                border-right: 1px solid #e8e8e8;
+            }
+
+
+
+
+        .sales, .support {
+            padding: 8px;
+        }
+
+        .sales {
+            float: left;
+            padding-right: 20px;
+            padding-top: 8px;
+            font-size: 15px;
+        }
+
+
+        .tw-logo {
+            height: 60px;
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <header>
+        <div class="announcement" style="height:50px;text-align:center !important;font-size:0.9em !important;padding-left:20px;padding-right:20px;line-height:35px">
+            <p style="display:block;margin:0 auto;text-align:center;font-size:1.1em !important">Book our services online and get 5% off! <a href="https://www.fastklean.co.uk/book-a-cleaner/">Click here!</a></p>
+        </div>
+        <div class="tw-top-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                    </div>
+                    <div class="col-md-6">
+                        <div class="tw-top-widget right" id="text-7">
+                            <div class="textwidget">
+                                <div class="sales">Sales: <a href="tel:02088849149"><b>020 8884 9149</b></a></div>
+                                <div class="support">Support: <a href="tel:02038195738"><b>020 3819 5738</b></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white box-shadow mb-3">
+                <div class="container-fluid">
+                    <a class="navbar-brand " asp-area="" asp-controller="Home" asp-action="Index">
+                        <img class="tw-logo" src="../images/logo.jpg" alt="FastKlean" />
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1">
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    About
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                    <li><a class="dropdown-item" asp-controller="Home" asp-action="aboutus">About Us</a></li>
+                                    <li><a class="dropdown-item" href="#">Client Review</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Services
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                    <li><a class="dropdown-item" asp-controller="Home" asp-action="commercialclean">Commercial Cleaning</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Home" asp-action="officeclean">Office Cleaning</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Home" asp-action="domesticcleaning">Domestic Cleaning</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Home" asp-action="professionalclean">After Builders Cleaning</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Home" asp-action="reliableclean">School Cleaning Service </a></li>
+                                    <li><a class="dropdown-item" asp-controller="Home" asp-action="tenancyclean">End of Tenancy Cleaning</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Home" asp-action="ecofriendly">Eco Friendly Cleaning </a></li>
+                                    <li><a class="dropdown-item" href="#">Antivirus Sanitation and Disinfection Service </a></li>
+                                    <li><a class="dropdown-item" href="#">Carpet Cleaning </a></li>
+                                    <li><a class="dropdown-item" href="#">Window Cleaning</a></li>
+                                    <li><a class="dropdown-item" href="#">Swimming Pool Cleaning</a></li>
+                                    <li><a class="dropdown-item" href="#">Driveway Patio Cleaning </a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Contact us</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Book Online</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+       
+
+    </header>
+    <div class="">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @* <footer class="border-top footer text-muted">
+    <div class="container">
+    &copy; 2024 - WebSite - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+    </footer> *@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

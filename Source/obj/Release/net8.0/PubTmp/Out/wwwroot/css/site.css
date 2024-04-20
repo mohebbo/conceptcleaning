@@ -1,0 +1,58 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    height: 100vh;
+    font-family: Open Sans, Arial, Helvetica, sans-serif;
+}
+
+.home-title {
+    color: #4578b4 !important;
+}
+
+.full-width-text {
+    max-width: 850px;
+    margin: 0 auto 0 !important;
+    display: block !important;
+    text-align: justify;
+}
+
+.cleaning-img {
+    max-height: 600px;
+    object-fit: cover;
+    object-position: top;
+}
+.alignright {
+    float: right;
+    margin: 5px 0 10px 20px;
+}
+.graybg {
+    background-color: rgb(242, 242, 242);
+    background-image: url('../images/pattern.png');
+}
+.h-500{
+    height:500px;
+}
+.img-aboutus {
+    width:100%;
+    height:calc(100vh - 190px);
+}
+.text-justified{
+    text-align:justify;
+}

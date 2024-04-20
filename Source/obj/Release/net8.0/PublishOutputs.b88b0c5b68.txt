@@ -1,0 +1,7 @@
+D:\Development\WebSite\WebSite\obj\Release\net8.0\PubTmp\Out\WebSite.exe
+D:\Development\WebSite\WebSite\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Development\WebSite\WebSite\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Development\WebSite\WebSite\obj\Release\net8.0\PubTmp\Out\WebSite.dll
+D:\Development\WebSite\WebSite\obj\Release\net8.0\PubTmp\Out\WebSite.deps.json
+D:\Development\WebSite\WebSite\obj\Release\net8.0\PubTmp\Out\WebSite.runtimeconfig.json
+D:\Development\WebSite\WebSite\obj\Release\net8.0\PubTmp\Out\WebSite.pdb
