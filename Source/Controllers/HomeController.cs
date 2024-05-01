@@ -37,7 +37,7 @@ namespace WebSite.Controllers
         {
             return View();
         }
-        public IActionResult reliableclean()
+        public IActionResult educationalcleaning()
         {
             return View();
         }
@@ -51,6 +51,26 @@ namespace WebSite.Controllers
         }
         
         public IActionResult Privacy()
+        {
+            return View();
+        }
+        public IActionResult FacilityManagement()
+        {
+            return View();
+        }
+        public IActionResult CarpetCleaning()
+        {
+            return View();
+        }
+        public IActionResult WindowCleaning()
+        {
+            return View();
+        }
+        public IActionResult PoolCleaning()
+        {
+            return View();
+        }
+        public IActionResult JetWash()
         {
             return View();
         }
