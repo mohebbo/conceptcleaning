@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\WebSite\\WebSite\\WebSite.csproj": {}
+    "D:\\Development\\WebSite\\ConceptClean\\conceptcleaning\\Source\\WebSite.csproj": {}
   },
   "projects": {
-    "D:\\Development\\WebSite\\WebSite\\WebSite.csproj": {
+    "D:\\Development\\WebSite\\ConceptClean\\conceptcleaning\\Source\\WebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\WebSite\\WebSite\\WebSite.csproj",
+        "projectUniqueName": "D:\\Development\\WebSite\\ConceptClean\\conceptcleaning\\Source\\WebSite.csproj",
         "projectName": "WebSite",
-        "projectPath": "D:\\Development\\WebSite\\WebSite\\WebSite.csproj",
+        "projectPath": "D:\\Development\\WebSite\\ConceptClean\\conceptcleaning\\Source\\WebSite.csproj",
         "packagesPath": "C:\\Users\\Office\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\WebSite\\WebSite\\obj\\",
+        "outputPath": "D:\\Development\\WebSite\\ConceptClean\\conceptcleaning\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Office\\AppData\\Roaming\\NuGet\\NuGet.Config",

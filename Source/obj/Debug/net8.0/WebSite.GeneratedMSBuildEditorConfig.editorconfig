@@ -9,71 +9,95 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebSite
 build_property.RootNamespace = WebSite
-build_property.ProjectDir = D:\Development\WebSite\WebSite\
+build_property.ProjectDir = D:\Development\WebSite\ConceptClean\conceptcleaning\Source\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Development\WebSite\WebSite
+build_property.MSBuildProjectDirectory = D:\Development\WebSite\ConceptClean\conceptcleaning\Source
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Development/WebSite/WebSite/Views/Home/aboutus.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/aboutus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhYm91dHVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/Home/commercialclean.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/carpetcleaning.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjYXJwZXRjbGVhbmluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/commercialclean.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb21tZXJjaWFsY2xlYW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/Home/domesticcleaning.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/domesticcleaning.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkb21lc3RpY2NsZWFuaW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/Home/ecofriendly.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/ecofriendly.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxlY29mcmllbmRseS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/Home/Index.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/educationalcleaning.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxlZHVjYXRpb25hbGNsZWFuaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/facilitymanagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxmYWNpbGl0eW1hbmFnZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/Home/officeclean.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/jetwash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxqZXR3YXNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/officeclean.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxvZmZpY2VjbGVhbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/Home/Privacy.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/poolcleaning.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwb29sY2xlYW5pbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/Home/professionalclean.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/professionalclean.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcm9mZXNzaW9uYWxjbGVhbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/Home/reliableclean.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/reliableclean.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWxpYWJsZWNsZWFuLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/Home/tenancyclean.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/tenancyclean.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZW5hbmN5Y2xlYW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/Shared/Error.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Home/windowcleaning.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx3aW5kb3djbGVhbmluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/_ViewImports.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/_ViewStart.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/WebSite/WebSite/Views/Shared/_Layout.cshtml]
+[D:/Development/WebSite/ConceptClean/conceptcleaning/Source/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jabq2d7uqs
